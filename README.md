@@ -13,8 +13,8 @@
 ## PennyPot Addresses:
 | Contract / Address | Description | Link |
 |--------------------|-------------|------|
-| PennyPot Contract | Core contract for PennyPot protocol | [Core Contract](https://etherscan.io/address/0xE64bC8B0aE893dDE5E2a5268ddde2bb79BE0c80b) |
-| CrosschainBalance Consumer Contract | Consumer contract for CrosschainBalance | [Consumer Contract](https://etherscan.io/address/0xCf5c2BBDDD52B85891e0d9Ae8E98649B25Fb8955) |
+| PennyPot Contract | Core contract for PennyPot protocol | [Core Contract](https://subnets-test.avax.network/c-chain/address/0xD2FFf02813Bb65380Ee4A30122cAf5d098469E8d) |
+| CrosschainBalance Consumer Contract | Consumer contract for CrosschainBalance | [Consumer Contract](https://subnets-test.avax.network/c-chain/address/0xCf5c2BBDDD52B85891e0d9Ae8E98649B25Fb8955) |
 
 
 ## Repositories:
